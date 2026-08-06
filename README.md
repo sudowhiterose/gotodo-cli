@@ -2,8 +2,7 @@
 
 **A minimalist todo manager for the terminal**
 
-Simple, fast and lightweight CLI tool for managing your tasks.  
-All data is stored locally inool for managing y
+Simple, fast and lightweight CLI tool for managing your tasks.
 
 [![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -22,28 +21,11 @@ All data is stored locally inool for managing y
 
 ---
 
-## 🚀 Installation
-
 ### Using Go
 Mark tasks as done
 - Clear completed tasks
 - Clean tabular output
-- Single JSON file storage
 - Cross-platform (Linux, macOS, Windows)
-
----
-
-## 🚀 Installation
-git clone 
-
-## 📖 Usage
-Add a task
-gotodo add "Buy milk"
-gotodo add Write README for the project
-List tasks
-gotodo list          # active tasks only
-gotodo list --all    # all tasks (including completed)
-gotodo list -a
 
 ---
 
