@@ -30,9 +30,12 @@ Mark tasks as done
 ---
 
 ## 🛠 Commands
+```
 gotodo add - Add a new task
 gotodo list - Show active tasks
 gotodo list -a - Show all tasks
 gotodo done - Mark a task as completed
 gotodo delete - Delete a task
 gotodo clear - Remove all completed tasks
+```
+---
